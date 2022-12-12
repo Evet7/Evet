@@ -18,7 +18,6 @@
 ## Git Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=evet7&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
 <!--
@@ -28,6 +27,7 @@
 ![https://twitter.com/ExoSphinx_](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=evet7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 -->
 
