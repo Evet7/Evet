@@ -3,7 +3,7 @@
 ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FExoSphinx_)
 
 - 🔭 I’m currently working on Improving Medal as a backend developer
-- 🌱 I’m currently learning GO, HTML, CSS, Improving Python skills and AI development
+- 🌱 I’m currently Improving Python skills and AI development
 - 👯 I’m looking to collaborate on any project that will change the future
 - 🤔 I’m looking for help with learning more, I'm a sponge
 - 💬 Ask me about how I got into programing!
