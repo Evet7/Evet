@@ -11,7 +11,6 @@
 ## Skills
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
-[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 [![MySql](https://img.shields.io/badge/--4479A1?logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 
 
