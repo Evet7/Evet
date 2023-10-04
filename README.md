@@ -15,7 +15,7 @@
 
 - 💬 Ask me about how I got into programing!
 
-![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/ThaTiemsz/evet7/output/snake.svg)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=evet7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with me:
 <p align="left">
@@ -38,7 +38,7 @@
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=evet7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/evet7/evet7/output/snake.svg)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evet7&show_icons=true&locale=en&layout=compact&theme=radical" alt="evet7" />
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evet7&show_icons=true&locale=en&theme=radical" alt="evet7" />
