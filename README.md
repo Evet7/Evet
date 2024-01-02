@@ -1,5 +1,5 @@
 
-# Hello Hello 👋, I'm Ivy
+# Hello Hello 👋, I'm Evet
 ### A software engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/evet7?color=7289da&logo=GitHub&style=for-the-badge)
