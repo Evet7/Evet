@@ -1,6 +1,6 @@
 
-# Hello Hello 👋, I'm Ivette
-### A software engineer from the United States
+# Hello Hello 👋, I'm Ivy
+### A software engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/evet7?color=7289da&logo=GitHub&style=for-the-badge)
 ![Github profile views](https://komarev.com/ghpvc/?username=evet7&label=Profile%20views&color=7289da&style=for-the-badge)
